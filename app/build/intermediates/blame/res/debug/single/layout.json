@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ankit\\Desktop\\AProjects\\Movies-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_detail.xml",
+        "source": "C:\\Users\\ankit\\Desktop\\AProjects\\Movies-master\\app\\src\\main\\res\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Desktop\\AProjects\\Movies-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_overview.xml",
+        "source": "C:\\Users\\ankit\\Desktop\\AProjects\\Movies-master\\app\\src\\main\\res\\layout\\fragment_overview.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Desktop\\AProjects\\Movies-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\movie_grid_cell.xml",
+        "source": "C:\\Users\\ankit\\Desktop\\AProjects\\Movies-master\\app\\src\\main\\res\\layout\\movie_grid_cell.xml"
+    }
+]
